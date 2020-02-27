@@ -15,7 +15,7 @@ This is required because our teaching system works to make sure we don't deploy
 "broken git repositories" to our learners. But we're trying to teach you to work with...
 broken git repositories 😂. Cloning from the URL above, into a new directory is the
 best way to complete this lab.
-
+whyyyyyyyyyyyyyyyyyyyyyyyyyy
 ## Introduction
 
 We've discussed how merge conflicts happen and how we can solve them. Let's work
@@ -307,10 +307,10 @@ That's it! Open up `index.html` in your browser to see your beautiful work!
 ### Step 6: Wrap Up
 
 Remember, while your computer has these updates, GitHub has no idea that you
-made them. These are all local. 
+made them. These are all local.
 
-Typically, the next step would be to create a local branch, push that 
-branch to the remote, and then create a pull request to merge your branch 
+Typically, the next step would be to create a local branch, push that
+branch to the remote, and then create a pull request to merge your branch
 into the remote `master` branch.
 
 **In this lab, you do not need to create a pull request.**
